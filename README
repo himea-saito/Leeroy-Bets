@@ -1,0 +1,35 @@
+# Leeroy Bets
+
+Leeroy Bets adds a betting game to your World of Warcraft: Cataclysm Classic raids.
+Place bets on who you think will pull the boss early, and if they do, they lose their share of the pot!
+
+TODO: THIS ADDON IS STILL IN DEVELOPMENT, PLEASE RETURN LATER
+
+## Features
+
+*   **Easy Betting:** Place bets on your fellow raiders through a simple interface.
+*   **Dynamic Pot:** The less often a returning member pulls, the higher the return if they mess up!
+*   **Fair Play:** Leverages several reporting methods to determine who pulled first.
+*   **Fun & Excitement:** Adds a new layer of engagement and friendly competition to your raids.
+
+## Installation
+
+1.  Download the latest release from [insert download link here].
+2.  Extract the contents into your `_classic_\Interface\AddOns` folder.
+3.  Launch World of Warcraft and enable "Leeroy Bets" in the addon list.
+
+## How to Play
+
+1.  Open the betting window using the `/leeroybets` command.
+2.  Select a player you think will pull early and place your bet.
+3.  If someone pulls early, they lose their cut of the final pot.
+4.  The remaining raiders split the pot proportionally.
+
+## Important Notes
+
+*   The addon is designed for Cataclysm Classic (version 3.4.0).
+*   Please report any bugs or issues on [insert issue tracker link here].
+
+## License
+
+This addon is licensed under the MIT License. See `LICENSE.txt` for more details.
